@@ -1,6 +1,8 @@
 #Lab 1 User Page
 
 **For Austin Yeung**
+*Picture of me*
+![Meeeeeeeeeee](tyomateee2-1582705988482011137-20221019_051127-img1.png)
 
 *Due ~~4/9~~ 4/10*
 
@@ -12,7 +14,6 @@ A quote from a friend watching me work
 Basic Table of Contents
 [Code](##the-coding-stuff:)
 [About me](##and-the-about-me-section:)
-[Misc](#text-of-the-subheading)
 
 
 ##The coding stuff:
@@ -70,3 +71,6 @@ And in order, my favorite video games:
 My todo for this page
 - [x] Markdown formats
 - [x] Images
+
+
+[Lookatthispokemon](701e2cf4b46daa41e9d91d892_e8f146aa_540.png)
