@@ -1,11 +1,15 @@
 #Lab 1 User Page
+
 **For Austin Yeung**
+
 *Due ~~4/9~~ 4/10 *
 
 > Why are you creating another markdown page
+> 
 A quote from a friend watching me work
 
-The coding stuff:
+
+##The coding stuff:
 I know: java, html, js, c, c++, and yannow more.
     proof I know java
     ```
