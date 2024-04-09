@@ -12,8 +12,8 @@ A quote from a friend watching me work
 
 
 Basic Table of Contents
-[Code](##the-coding-stuff:)
-[About me](##and-the-about-me-section:)
+[Code](#the-coding-stuff:)
+[About me](#and-the-about-me-section:)
 
 
 ## The coding stuff:
