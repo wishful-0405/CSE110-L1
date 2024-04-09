@@ -1,4 +1,4 @@
-#Lab 1 User Page
+# Lab 1 User Page
 
 **For Austin Yeung**
 *Picture of me*
@@ -12,11 +12,11 @@ A quote from a friend watching me work
 
 
 Basic Table of Contents
-[Code](#the-coding-stuff:)
-[About me](#and-the-about-me-section:)
+[Code](##the-coding-stuff:)
+[About me](##and-the-about-me-section:)
 
 
-#The coding stuff:
+## The coding stuff:
 
 I know: java, html, js, c, c++, and yannow more.
     proof I know java
@@ -53,7 +53,7 @@ I know: java, html, js, c, c++, and yannow more.
     }
     ```
 
-#And the About me section:
+## And the About me section:
 
 Hi I'm another student in CSE 110 SP24. People call me Austin and I'm a computer engineering major in my senior yr. But enough of the academics stuff, here's some random facts about me.
 
