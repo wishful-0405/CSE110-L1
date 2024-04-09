@@ -1,4 +1,4 @@
 # CSE110-L1
 
 Austin's User Page
-My favorite lang is java?
+https://wishful-0405.github.io/CSE110-L1/
