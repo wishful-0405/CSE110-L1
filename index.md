@@ -2,7 +2,7 @@
 
 **For Austin Yeung**
 *Picture of me*
-![Meeeeeeeeeee](./tyomateee2-1582705988482011137-20221019_051127-img1.png)
+![Meeeeeeeeeee](test1.jpg)
 
 *Due ~~4/9~~ 4/10*
 
