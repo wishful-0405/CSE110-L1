@@ -2,12 +2,12 @@
 
 **For Austin Yeung**
 *Picture of me*
-![Meeeeeeeeeee](tyomateee2-1582705988482011137-20221019_051127-img1.png)
+![Meeeeeeeeeee](./tyomateee2-1582705988482011137-20221019_051127-img1.png)
 
 *Due ~~4/9~~ 4/10*
 
 > Why are you creating another markdown page
-> 
+
 A quote from a friend watching me work
 
 
@@ -21,7 +21,7 @@ Basic Table of Contents
 I know: java, html, js, c, c++, and yannow more.
     proof I know java
 
-    
+
     ```
     class Text extends JPanel {
         
