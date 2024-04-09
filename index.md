@@ -1,10 +1,10 @@
-# Lab 1 User Page
+# Lab 1 User Page *Due ~~4/9~~ 4/10*
 
 **For Austin Yeung**
-*Picture of me*
-![Meeeeeeeeeee](test1.jpg)
 
-*Due ~~4/9~~ 4/10*
+*Picture of me*
+
+![Meeeeeeeeeee](test1.jpg)
 
 > Why are you creating another markdown page
 
